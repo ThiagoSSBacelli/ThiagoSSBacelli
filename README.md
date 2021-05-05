@@ -3,7 +3,7 @@
 ||Desenvolvedor Java Full Stack||
 
 #### Meus contatos:
-[![https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit//https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/thiago-silva-souza-bacelli-369aa4192/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF6gAEba0SQ%2B81yjGOSx9yg%3D%3D)](https://www.linkedin.com/in/thiago-silva-souza-bacelli-369aa4192/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF6gAEba0SQ%2B81yjGOSx9yg%3D%3D)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982703332&text=Olá!)](https://api.whatsapp.com/send?phone=5511982703332&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiislva.sp@gmail.com)](mailto:thisilva.sp@gmail.com)
 
